@@ -1,0 +1,48 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,600,700);
+
+strong {font-weight: 600;}
+#header{font-family: 'Source Sans Pro', sans-serif;font-size: 16pt;color: #676d79;font-weight: 300;position:relative;/* border-bottom: 1px solid #aaa; *//* background: #e5e5e5; */padding-left:110px;padding-bottom:10px; display:inline-block;padding-right:60px; }
+#header .about {font-size: 1.5em;line-height: 1em;font-weight: 200;letter-spacing: -1.5px;display: inline-block;}
+.mainContent{background-color:#455868;}
+
+
+.SearchFormDesktop{padding-top:15px;position:relative;width: 440px;margin:0px auto;display:inline-block;margin-left: 20px;}
+.SearchFormDesktop .bigText{padding:0px 1px 0px 5px;height:25px;width:325px;font-size:13pt;border-radius:3px;border:solid 1px #777;margin-right:10px}
+.SearchFormDesktop select{height:30px;border-radius:3px;border:1px solid #777;margin-right:10px;margin-top: 10px;}
+.SearchFormDesktop #SearchSubmit{background-color:#f8694d;border:1px solid #777;height:28px;border-radius:3px}
+#map{margin-top:10px;margin-left:8px;position:relative;display:inline-block;}
+.SearchResults{width:27%;background-color:#fff;height:600px;display:inline-block;vertical-align: top;margin-top: 10px;position:relative;margin-left:8px;}
+.results ul,.results{padding:10px;margin:0px;}
+.results li{padding:0px;margin:0px;list-style:none;margin-bottom:15px;border-bottom:1px solid #000}
+.imgLocation img{height:18px;left:-10px;position:relative;top:4px;}
+
+@media screen and (max-width:945px){
+    #header{font-size: 16pt;padding-left:10px;padding-right:5px;}
+#header .about {font-size: 1.5em;line-height: 1em;font-weight: 200;letter-spacing: -1.5px;display: inline-block;}
+    .results li{font-size:11px;}
+}
+
+
+@media screen and (max-width:780px){/*
+    .SearchFormDesktop .bigText{width:180px;font-size:11pt;}
+    .SearchFormDesktop select{font-size:10pt;}*/
+    #header{display:none;}
+    .results li{font-size:10px;}
+}
+
+@media screen and (max-width: 600px) 
+{
+.SearchFormDesktop .bigText{width:315px;font-size:13pt;}
+.SearchFormDesktop{width:440px;}
+.SearchFormDesktop select{margin-top:10px;font-size:13pt;}
+.SearchFormDesktop label{margin-left:10px;}  
+.results li{font-size:9px;}  
+}
+
+
+@media screen and (max-width: 480px) 
+{ .SearchFormDesktop{width:360px;margin-left:5px;margin-bottom:8px;}
+    .bigText{width:207px !important;font-size:11pt !important;}
+    select{width:65px;font-size:10pt !important;}
+}
+

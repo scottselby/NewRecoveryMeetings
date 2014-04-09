@@ -1,0 +1,6 @@
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\bin\Debug\ResponsiveMeetingSearch.Data.dll
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\bin\Debug\ResponsiveMeetingSearch.Data.pdb
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\obj\Debug\ResponsiveMeetingSearch.Data.dll
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\obj\Debug\ResponsiveMeetingSearch.Data.pdb
+C:\Users\G62\Documents\Visual Studio 2010\Projects\ResponsiveMeetingSearch\ResponsiveMeetingSearch.Data\bin\Debug\ResponsiveMeetingSearch.Data.dll.config
